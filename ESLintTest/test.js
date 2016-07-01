@@ -10,5 +10,5 @@ function Test() {
 if(true) alert("ok")
 var foo = bar;
 
-var test = test1;
+var test = test2;
 
